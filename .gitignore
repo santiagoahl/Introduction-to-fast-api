@@ -1,0 +1,2 @@
+#Ignoramos el envio del venv al repositorio
+venv/
