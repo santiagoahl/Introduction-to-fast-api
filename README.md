@@ -1,2 +1,2 @@
 # introduction-to-fast-api
-Here you can view how to implement the main API concepts (such like requests&amp;responses via path operations, path parameters, validations and automatic responses,) in the framework FastAPI
+Here you can view how to implement the main API concepts (such like requests&amp;responses via path operations, path parameters, validations and automatic responses,) in the framework FastAPI. Here you can view [explanatory notes](https://winter-anchovy-50e.notion.site/Curso-de-FastAPI-Fundamentos-Path-Operations-y-Validaciones-84384efc5d484ed6825c77e2b6b1bf30) of an introductory course that I've taken (But they are in spanish, so we further add notes in english): 
